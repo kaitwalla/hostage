@@ -1,0 +1,14 @@
+{
+  "name": "Hostage",
+  "description": "A GUI for managing local host files",
+  "author": "dan.herman@gmail.com",
+  "version": "1.0.0a",
+  "main": "main.js",
+  "dependencies": {
+    "hostile": "^1.3.0",
+    "sweetalert": "^1.1.3"
+  },
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
